@@ -15,26 +15,26 @@
 - #### 7-Sebastián Bustamante
 - #### 8-Matias Diaz de Otazu
 
-> # _Materias._:
+> ## _Materias._:
 
 ```
 Laboratorio  III: Python y JavaScript 🌐🐍
 Programación III: Java☕
 ```
 
-> #### _Organización Semanal._:
+> ## _Organización Semanal._:
 
 ```
-> | Semana     | Delegad@                    | Estado actual   |
-> | ---------- | --------------------------- | --------------- |
-> | `Semana 1` | **Catriel Quintana**        | [x] EN CURSO... |
-> | `Semana 2` | **Carla Fuschino**          | Pendiente       |
-> | `Semana 3` | **María Bárbara Herrera**   | Pendiente       |
-> | `Semana 4` | **Nicolás Rizo Avellaneda** | Pendiente       |
-> | `Semana 5` | **Andrés Montes**           | Pendiente       |
-> | `Semana 6` | **Danilo Profita**          | Pendiente       |
-> | `Semana 7` | **Sebastián Bustamante**    | Pendiente       |
-> | `Semana 8` | **Matias Diaz de Otazu**    | Pendiente       |
+| Semana     | Delegad@                  | Estado actual |
+| ---------- | --------------------------| --------------|
+| Semana 1 | **Catriel Quintana**        | [x] EN CURSO  |
+| Semana 2 | **Carla Fuschino**          | Pendiente     |
+| Semana 3 | **María Bárbara Herrera**   | Pendiente     |
+| Semana 4 | **Nicolás Rizo Avellaneda** | Pendiente     |
+| Semana 5 | **Andrés Montes**           | Pendiente     |
+| Semana 6 | **Danilo Profita**          | Pendiente     |
+| Semana 7 | **Sebastián Bustamante**    | Pendiente     |
+| Semana 8 | **Matias Diaz de Otazu**    | Pendiente     |
 ```
 
 > ## _Lenguajes Utilizados._:
