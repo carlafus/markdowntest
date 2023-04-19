@@ -15,7 +15,7 @@
 - #### 7-Sebastián Bustamante
 - #### 8-Matias Diaz de Otazu
 
-> ## **Materias**:
+> # **_Materias:_ **
 
 ```
 Laboratorio  III: Python y JavaScript 🌐🐍
@@ -37,7 +37,7 @@ Programación III: Java☕
 > | `Semana 8` | **Matias Diaz de Otazu**    | Pendiente       |
 ```
 
-> ## **Lenguajes utilizados**:
+> ## **_Lenguajes utilizados_: **
 >
 > ![py](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47vscbxnqi6yxok229ruj0sc0xhakpf7wc4n8ob62l&rid=giphy.gif&ct=g.gif)
 
