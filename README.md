@@ -15,14 +15,14 @@
 - #### 7-Sebastián Bustamante
 - #### 8-Matias Diaz de Otazu
 
-> ## _Materias._:
+> ## _Materias_:
 
 ```
 Laboratorio  III: Python y JavaScript 🌐🐍
 Programación III: Java☕
 ```
 
-> ## _Organización Semanal._:
+> ## _Organización Semanal_:
 
 ```
 | Semana     | Delegad@                  | Estado actual |
@@ -37,7 +37,7 @@ Programación III: Java☕
 | Semana 8 | **Matias Diaz de Otazu**    | Pendiente     |
 ```
 
-> ## _Lenguajes Utilizados._:
+> ## _Lenguajes Utilizados_:
 >
 > ![py](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47vscbxnqi6yxok229ruj0sc0xhakpf7wc4n8ob62l&rid=giphy.gif&ct=g.gif)
 
