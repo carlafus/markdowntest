@@ -25,7 +25,7 @@ Programación III: Java☕
 > ## _Organización Semanal_:
 
 ```
-| Semana     | Delegad@                  | Estado actual |
+| Semana   | Delegad@                    | Estado actual |
 | Semana 1 | **Catriel Quintana**        | [x] EN CURSO  |
 | Semana 2 | **Carla Fuschino**          | Pendiente     |
 | Semana 3 | **María Bárbara Herrera**   | Pendiente     |
